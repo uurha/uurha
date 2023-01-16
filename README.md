@@ -65,7 +65,7 @@
 </p>
 
 <p>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=uurha&show_icons=true&theme=dark&locale=en&layout=compact" alt="uurha" />
+<img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=uurha&show_icons=true&theme=dark&locale=en&layout=compact" alt="uurha" />
 &nbsp;
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=uurha&show_icons=true&theme=dark&locale=en" alt="uurha" />
+<img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uurha&show_icons=true&theme=dark&locale=en" alt="uurha" />
 </p>
