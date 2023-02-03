@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uurha&label=Profile%20views&color=0e75b6&style=flat" alt="uurha" /> </p>
 
-- 🔭 I’m currently working on [Better Plugin Collection](https://github.com/uurha/BetterPluginCollection/wiki)
+- 🔭 I’m currently working on [Better Plugin Collection (aka Arcueid Plugins)](https://github.com/uurha/BetterPluginCollection/wiki)
 
 - 💬 Ask me about **C# and Unity**
 
