@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arcueid</h1>
+
+![AvaArki2](https://user-images.githubusercontent.com/22265817/219436530-f4703b96-1769-4af3-ae8b-dedc44a13451.png)
+
 <h3 align="center">A passionate software developer from Ukraine 🇺🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uurha&label=Profile%20views&color=0e75b6&style=flat" alt="uurha" /> </p>
