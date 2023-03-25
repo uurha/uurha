@@ -26,6 +26,7 @@
 | Photon Event Bus | [![openupm](https://img.shields.io/npm/v/com.uurha.betterphotoneventbus?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterphotoneventbus/) | [Link](https://github.com/uurha/PhotonEventBus) |
 | Better Data Structures | [![openupm](https://img.shields.io/npm/v/com.uurha.betterdatastructures?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterdatastructures/) | [Link](https://github.com/uurha/BetterDataStructures) |
 | Better Editor Tools | [![openupm](https://img.shields.io/npm/v/com.uurha.bettereditortools?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.bettereditortools/) | [Link](https://github.com/uurha/BetterEditorTools) |
+| Better Joystick | [![openupm](https://img.shields.io/npm/v/com.uurha.betterjoystick?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterjoystick/) | [Link](https://github.com/uurha/BetterJoystick) |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
