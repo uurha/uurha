@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C# and Unity**
 
-- 📫 How to reach me **uurhaa@gmail.com**
+- 📫 How to reach me **uurha.dev@gmail.com**
 
 - 📄 Know about my [experiences](https://resume.io/r/qBlhRLHNu)
 
