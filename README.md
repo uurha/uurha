@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate software developer from Ukraine 🇺🇦</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uurha&label=Profile%20views&color=0e75b6&style=flat" alt="uurha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uurha&label=Profile%20views&color=0e75b6&style=flat" alt="uurha" /> <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 21px !important;width: 120px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> </p>
 
 - 🔭 I’m currently working on [Better Plugin Collection (aka Arcueid Plugins)](https://github.com/uurha/BetterPluginCollection/wiki)
 
