@@ -18,7 +18,7 @@
 
 | Name | OpenUPM | GitHub |
 |---|---|---|
-| Build Notification  |  [![openupm](https://img.shields.io/npm/v/com.uurha.buildnotification?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.buildnotification/) | [Link](https://github.com/uurha/BuildNotification)  |
+| Build Notification  |  [![openupm](https://img.shields.io/npm/v/com.uurha.buildnotification?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.buildnotification/) | [Link](https://github.com/techno-dwarf-works/build-notification)  |
 | Better Attributes | [![openupm](https://img.shields.io/npm/v/com.uurha.betterattributes?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterattributes/) | [Link](https://github.com/uurha/BetterAttributes) |
 | Better Validation | [![openupm](https://img.shields.io/npm/v/com.uurha.bettervalidation?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.bettervalidation/) | [Link](https://github.com/uurha/BetterValidation) |
 | Better Extensions | [![openupm](https://img.shields.io/npm/v/com.uurha.betterextensions?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterextensions/) | [Link](https://github.com/uurha/BetterExtensions) |
@@ -27,7 +27,7 @@
 | Photon Event Bus | [![openupm](https://img.shields.io/npm/v/com.uurha.betterphotoneventbus?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterphotoneventbus/) | [Link](https://github.com/uurha/PhotonEventBus) |
 | Better Data Structures | [![openupm](https://img.shields.io/npm/v/com.uurha.betterdatastructures?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterdatastructures/) | [Link](https://github.com/uurha/BetterDataStructures) |
 | Better Editor Tools | [![openupm](https://img.shields.io/npm/v/com.uurha.bettereditortools?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.bettereditortools/) | [Link](https://github.com/uurha/BetterEditorTools) |
-| Better Joystick | [![openupm](https://img.shields.io/npm/v/com.uurha.betterjoystick?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterjoystick/) | [Link](https://github.com/uurha/BetterJoystick) |
+| Better Joystick | [![openupm](https://img.shields.io/npm/v/com.tdw.betterjoystick?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.tdw.betterjoystick/) | [Link](https://github.com/techno-dwarf-works/better-joystick) |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
