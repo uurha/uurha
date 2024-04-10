@@ -18,15 +18,10 @@
 
 | Name | OpenUPM | GitHub |
 |---|---|---|
-| Build Notification  |  [![openupm](https://img.shields.io/npm/v/com.uurha.buildnotification?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.buildnotification/) | [Link](https://github.com/techno-dwarf-works/build-notification)  |
 | Better Attributes | [![openupm](https://img.shields.io/npm/v/com.uurha.betterattributes?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterattributes/) | [Link](https://github.com/techno-dwarf-works/better-attributes) |
 | Better Validation | [![openupm](https://img.shields.io/npm/v/com.uurha.bettervalidation?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.bettervalidation/) | [Link](https://github.com/techno-dwarf-works/better-validation) |
-| Better Extensions | [![openupm](https://img.shields.io/npm/v/com.uurha.betterextensions?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterextensions/) | [Link](https://github.com/techno-dwarf-works/better-extensions) |
-| Better Runtime Console |[![openupm](https://img.shields.io/npm/v/com.uurha.betterruntimeconsole?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterruntimeconsole/) | [Link](https://github.com/techno-dwarf-works/better-runtime-console) |
 | Better Scene Management | [![openupm](https://img.shields.io/npm/v/com.uurha.betterscenemanagement?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterscenemanagement/) | [Link](https://github.com/techno-dwarf-works/better-scene-management) |
 | Photon Event Bus | [![openupm](https://img.shields.io/npm/v/com.uurha.betterphotoneventbus?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterphotoneventbus/) | [Link](https://github.com/techno-dwarf-works/photon-event-bus) |
-| Better Data Structures | [![openupm](https://img.shields.io/npm/v/com.uurha.betterdatastructures?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterdatastructures/) | [Link](https://github.com/techno-dwarf-works/better-data-structures) |
-| Better Editor Tools | [![openupm](https://img.shields.io/npm/v/com.uurha.bettereditortools?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.bettereditortools/) | [Link](https://github.com/techno-dwarf-works/better-editor-tools) |
 | Better Joystick | [![openupm](https://img.shields.io/npm/v/com.tdw.better.joystick?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.tdw.better.joystick/) | [Link](https://github.com/techno-dwarf-works/better-joystick) |
 
 <h3 align="left">Connect with me:</h3>
