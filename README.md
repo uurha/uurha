@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **uurha.dev@gmail.com**
 
-- 📄 Know about my [experiences](https://resume.io/r/qBlhRLHNu)
+- 📄 Know about my [experiences]([https://resume.io/r/qBlhRLHNu](https://www.canva.com/design/DAGCHnIe_9k/2qMMnQMv0sGJaKdXe-Dmxw/view?utm_content=DAGCHnIe_9k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5777fa8427))
 
 - 👨‍💻 Plugins:
 
